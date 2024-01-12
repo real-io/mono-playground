@@ -1,0 +1,5 @@
+@import "./tokens.scss";
+
+@function color($key) {
+  @return map-get(map-get($tokens, 'colors'), $key);
+}

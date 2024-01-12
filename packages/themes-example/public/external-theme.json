@@ -1,0 +1,9 @@
+{
+  "name": "external",
+  "variables": {
+    "--base-100": "red",
+    "--primary-100": "red",
+    "--secondary-100": "red",
+    "--tertiary-100": "red"
+  }
+}

@@ -1,0 +1,7 @@
+@import "../../styles/themes/colors.scss";
+
+.box {
+    padding: 10rem;
+    border: 2px solid color("primary.100");
+    background-color: color("tertiary.100");
+}

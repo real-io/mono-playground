@@ -1,0 +1,9 @@
+@import "../../styles/themes/colors.scss";
+
+.button {
+    border: none;
+    padding: 3rem;
+    box-shadow: none;
+    outline: 1px solid color("base.100");
+    color: color("secondary.100")
+}

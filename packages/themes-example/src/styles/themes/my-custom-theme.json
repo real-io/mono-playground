@@ -1,0 +1,11 @@
+{
+  "name": "MyCustomTheme",
+  "tokens": {
+    "colors": {
+        "neutral.100": "#F4F4F4",
+        "primary.100": "red",
+        "secondary.100": "blue",
+        "tertiary.100": "orange"
+    }
+  }
+}
