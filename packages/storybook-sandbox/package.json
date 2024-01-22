@@ -1,8 +1,9 @@
 {
-  "name": "mono-playground",
+  "name": "storybook-sandbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,10 +12,5 @@
     "url": "git@github.com-real-io:real-io/mono-playground.git"
   },
   "author": "",
-  "license": "ISC",
-  "workspaces": [
-    "packages/themes-example",
-    "packages/react-sandbox",
-    "packages/storybook-sandbox"
-  ]
+  "license": "ISC"
 }
