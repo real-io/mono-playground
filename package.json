@@ -15,6 +15,7 @@
   "workspaces": [
     "packages/themes-example",
     "packages/react-sandbox",
-    "packages/storybook-sandbox"
+    "packages/storybook-sandbox",
+    "packages/react-typescript-sandbox"
   ]
 }
